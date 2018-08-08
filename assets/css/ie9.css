@@ -7,12 +7,12 @@
 /* Header */
 
 	#header {
-		background-image: url("hubbledeep.jpg");
+		background-image:url("hubbledeep.jpg");
 		position: relative;
 	}
 
 		#header:before {
-			background-image: url("hubbledeep.jpg");
+			background-image:url("hubbledeep.jpg");
 			background-position: top left,							center center;
 			background-size: auto,								cover;
 			content: '';
@@ -31,13 +31,12 @@
 /* Footer */
 
 	#footer {
-		background-image: url("hubbledeep.jpg");
-		<!--filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#4361c2", endColorStr="#4fa49a", GradientType=1);-->
+		background-image:url("hubbledeep.jpg");
 		position: relative;
 	}
 
 		#footer:before {
-			background-image: url("hubbledeep.jpg");
+			background-image:url("hubbledeep.jpg");
 			background-position: top left,							center center;
 			background-size: auto,								cover;
 			content: '';
