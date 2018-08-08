@@ -8,7 +8,7 @@
 
 	#header {
 		background-image: url("hubbledeep.jpg");
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#4fa49a", endColorStr="#4361c2", GradientType=1);
+		<!--filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#4fa49a", endColorStr="#4361c2", GradientType=1);-->
 		position: relative;
 	}
 
