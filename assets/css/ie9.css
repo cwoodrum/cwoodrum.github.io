@@ -7,12 +7,12 @@
 /* Header */
 
 	#header {
-		background-image:url("hubbledeep.jpg");
+		background-color: #000000;
 		position: relative;
 	}
 
 		#header:before {
-			background-image:url("hubbledeep.jpg");
+			background-color: #000000;
 			background-position: top left,							center center;
 			background-size: auto,								cover;
 			content: '';
@@ -31,12 +31,12 @@
 /* Footer */
 
 	#footer {
-		background-image:url("hubbledeep.jpg");
+		background-color: #000000;
 		position: relative;
 	}
 
 		#footer:before {
-			background-image:url("hubbledeep.jpg");
+			background-color: #000000;
 			background-position: top left,							center center;
 			background-size: auto,								cover;
 			content: '';
