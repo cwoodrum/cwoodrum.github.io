@@ -12,11 +12,7 @@
 /* Header */
 
 	#header {
-		$from: _palette(accent3-alt);
-		$to: _palette(accent6-alt);
-
-		background-image: url("hubbledeep.jpg");
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
+		background-image:url("hubbledeep.jpg");
 		position: relative;
 
 		&:before {
@@ -40,11 +36,7 @@
 /* Footer */
 
 	#footer {
-		$from: _palette(accent6-alt);
-		$to: _palette(accent3-alt);
-
-		background-image: url("hubbledeep.jpg");
-		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
+		background-image:url("hubbledeep.jpg");
 		position: relative;
 
 		&:before {
