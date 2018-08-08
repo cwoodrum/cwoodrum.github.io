@@ -15,7 +15,7 @@
 		$from: _palette(accent3-alt);
 		$to: _palette(accent6-alt);
 
-		background-image: none;
+		background-image: url("hubbledeep.jpg");
 		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
 		position: relative;
 
@@ -43,7 +43,7 @@
 		$from: _palette(accent6-alt);
 		$to: _palette(accent3-alt);
 
-		background-image: none;
+		background-image: url("hubbledeep.jpg");
 		filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr="#{$from}", endColorStr="#{$to}", GradientType=1);
 		position: relative;
 
