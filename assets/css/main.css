@@ -2703,11 +2703,11 @@
 	}
 
 		.main.style1 {
-			background: #000;
+			background: #fff;
 		}
 
 		.main.style2 {
-			background-color: #fff;
+			background-color: #000;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
 			background-image: none;
